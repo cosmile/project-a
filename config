@@ -1,0 +1,11 @@
+fdisk -l
+mkfs /dev/sdb
+mount nfs
+show ip route
+ping
+itop
+trace
+ifcfg
+cat
+echo
+ls -l
